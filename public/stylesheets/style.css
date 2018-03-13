@@ -1,0 +1,18 @@
+body {
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+    background: black;
+    background-image: url("/images/pia21980.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+form, a, h1, p {
+  color: white;
+}
+
+img.about {
+    max-width: 100%;
+}
